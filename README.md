@@ -321,7 +321,7 @@ _[Click here](#table-of-contents) to jump back to table of contents._
 ## Other optional tools:
 ### SNScrape
 
-I used to offer a GUI tool - GetOldTweets - that would let you easily scrape tweets that are more than a week old. However, due to Twitter's changing policies, this tool no longer works. There is an alternative tool I offer called SNScrape that still works. However, it's slightly trickier to use. [Click here](https://bit.ly/3kosK5X) to see full download and usage instructions.  
+I used to offer a GUI tool - GetOldTweets - that would let you easily scrape tweets that are more than a week old. However, due to Twitter's changing policies, this tool no longer works. There is an alternative tool I offer called SNScrape that still works. However, it's slightly trickier to use. [Click here](html/snscrape.md) to see full download and usage instructions.  
 <!-- https://www.dropbox.com/s/r5jzvzj417y9mz5/SNScrape_for_PhD.html?dl=0 -->
 <!-- https://bit.ly/3Auu1hy -->
 
